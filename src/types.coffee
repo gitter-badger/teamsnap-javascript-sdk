@@ -17,6 +17,7 @@ types = [
   'divisionMember'
   'divisionMemberPreferences'
   'divisionTeamStanding'
+  'division'
   'event'
   'forumPost'
   'forumSubscription'
